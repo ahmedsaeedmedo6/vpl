@@ -1,6 +1,7 @@
 <?php
 defined('MOODLE_INTERNAL') || die();
 require_once(dirname(__FILE__).'/vpl_subject.interface.php');
+require_once(dirname(__FILE__).'/sms.class.php');
 
 class mod_vpl_subscriber_code implements mod_vpl_subject
 {
@@ -40,6 +41,8 @@ class mod_vpl_subscriber_code implements mod_vpl_subject
         $self_user=$this->getUserObj($this->id);
         foreach($subscribers as $subscriber)
         {
+            $sms=new SMS();
+            $sms->send("New Code",01141673522);
             $message = new \core\message\message();
             $message->component = 'moodle';
             $message->name = 'instantmessage';
