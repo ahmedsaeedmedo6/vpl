@@ -186,6 +186,74 @@ echo '
                     </div>
                 </div>
                 <!-- End question 6 -->
+                
+                
+                <!-- start question 7 -->
+                <div class="panel panel-primary">
+                    <div class="panel-heading" role="tab" id="heading-one">
+                        <h4 class="panel-title">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-seven" aria-expanded="true" aria-controls="collapse-one">
+                                #07 How to comment on other student public code ?
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapse-seven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading-one">
+                        <div class="panel-body">
+                            <ul style="margin-left: 50px" class="list-group">
+                                <li class="list-group-item">First click on <b>Other Students Public Code tab</b></li>
+                                <li class="list-group-item">You can now see other students public code with the title and time submitted</li>
+                                <li class="list-group-item">If you need to search for specific code you can use the search field</li>
+                                <li class="list-group-item">Click on view icon in the action column to view your code and its description</li>
+                                <li class="list-group-item">write comment and click on write comment</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- End question 7 -->
+                
+                
+                <!-- start question 8 -->
+                <div class="panel panel-primary">
+                    <div class="panel-heading" role="tab" id="heading-one">
+                        <h4 class="panel-title">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-eight" aria-expanded="true" aria-controls="collapse-one">
+                                #08 How to share other student public code ?
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapse-eight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading-one">
+                        <div class="panel-body">
+                            <ul style="margin-left: 50px" class="list-group">
+                                <li class="list-group-item">First click on <b>Other Students Public Code tab</b></li>
+                                <li class="list-group-item">You can now see other students public code with the title and time submitted</li>
+                                <li class="list-group-item">If you need to share for specific code you can use the share field</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- End question 8 -->
+                
+                
+                <!-- start question 9 -->
+                <div class="panel panel-primary">
+                    <div class="panel-heading" role="tab" id="heading-one">
+                        <h4 class="panel-title">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-nine" aria-expanded="true" aria-controls="collapse-one">
+                                #09 How to view subscribers shared code?
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapse-nine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading-one">
+                        <div class="panel-body">
+                            <ul style="margin-left: 50px" class="list-group">
+                                <li class="list-group-item">First click on <b>shared codes tab</b></li>
+                                <li class="list-group-item">You can now see subscribers shared code  </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- End question 9 -->
         </div>
     </section>
 </div>
